@@ -20,3 +20,6 @@ Bu web uygulaması, kullanıcıların belirli seçenekler arasında rastgele bir
 1. Bu projeyi klonlayın veya indirin.
 2. İndirdiğiniz dosyaları bir web sunucusuna yerleştirin.
 3. Projenin ana dizinindeki `index.html` dosyasını tarayıcınızda açın.
+
+## Uygulama Link
+https://kararver-lime.vercel.app/
